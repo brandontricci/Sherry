@@ -6,16 +6,16 @@ a {
 	color: #35A49C;
 }
 a:hover {
-	color: #79CDC0;
+	color: #d5c964;
 }
 
 /* menu */
 .nav>li>a:hover {
-	color: #79CDC0;
+	color: #d5c964;
 }
 
 .navbar .navbar-nav > .active > a {
-	color: #79CDC0;
+	color: #d5c964;
 }
 
 /* flexslider */
@@ -28,7 +28,7 @@ a:hover {
 }
 
 .testimonial span.author a {
-	color: #79CDC0;
+	color: #d5c964;
 }
 
 /* --- icon box hover --- */
@@ -38,7 +38,7 @@ a:hover {
 }
 .no-touch .hi-icon-effect-5 .hi-icon:hover {
 	background: #35A49C;
-	box-shadow: 0 0 0 8px  #79CDC0;
+	box-shadow: 0 0 0 8px  #d5c964;
 }
 
 
